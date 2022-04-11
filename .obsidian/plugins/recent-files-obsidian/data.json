@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "11-04-2022",
+      "path": "Daily notes/11-04-2022.md"
+    },
+    {
+      "basename": "02-04-2022",
+      "path": "Daily notes/02-04-2022.md"
+    },
+    {
+      "basename": "primjer",
+      "path": "200 Research/primjer.md"
+    },
+    {
       "basename": "Revenge 5",
       "path": "200 Research/Revenge 5.md"
     },
@@ -31,10 +43,6 @@
     {
       "basename": "Moje Pogreske",
       "path": "Daily notes/Moje Pogreske.md"
-    },
-    {
-      "basename": "02-04-2022",
-      "path": "Daily notes/02-04-2022.md"
     },
     {
       "basename": "01-04-2022",
@@ -191,14 +199,6 @@
     {
       "basename": "tcpdump",
       "path": "100 Faks/tcpdump.md"
-    },
-    {
-      "basename": "SQL injection",
-      "path": "000 Zettelkasten/SQL injection.md"
-    },
-    {
-      "basename": "Appointment",
-      "path": "PDFs/Appointment.pdf"
     }
   ],
   "omittedPaths": [],
