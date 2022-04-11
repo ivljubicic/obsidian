@@ -1,0 +1,65 @@
+202203181315
+Tags: 
+
+# UUUI
+- turingov test
+	- inteligencija vs proci turingov test
+	- d je dubina
+	- b je faktor grananja
+- pretrazivanje prostora stanja
+	- succ
+		- implicitno vs eksplicitno
+	- stablo pretrazivanja
+		- fronta
+		- open nodes
+	- strategija pretrazivanja
+		- odredena redoslijedom
+	- stanje vs cvor
+		- cvor n sadrzi dubinu d i stanje s
+		- n = (s, d)
+		- **pohranjivati cemo ukupnu cijenu puta** do tog cvora 
+	- algoritam pretrazivanja
+		- potpun
+			- pronalazi rjesenje uvijek kada ono postoji
+		- optimalan
+		- vrem i prostorna slozenost
+			- vrem je broj generiranih cvorova
+			- pros je pohranjeni cvorovi 
+		- BFS, uniform cost, DFS
+			- BFS inserta na kraj liste cvorove, radimo **red**, vrem i prost  slozenost, je $b^(d+1)$
+			- uniform cost
+				- insertSortedBy(f, n, l) umece cvor n u listu l sortirano uzlazno po vrijednosti f(n)
+				- open je kao **prioritetni red**
+			- DFS insert na pocetak liste cvorova, radimo **stog**
+				- prostorna slozenost
+					- dodajes elemente as you go, i spustas se na maskimalnu razinu mogucu, kada zavrsis snjom ti ih mices iz liste pa je slozenost **b * m**
+				- vremenska
+					- ogromna $b^m$
+			- iterativno pretrazivanje u dubinu
+- heuristika
+	- od neke tocke do kraja treba koliko kaze
+	- treba biti manja ako smo blize kraju
+	- moze vrijediti da veca vrijednost heuristike nosi vise informacija
+- uspon prema vrhu
+	- ekspandira samo trenutacan cvor
+- algoritam potpun
+- optimisticna
+	- neprecjenjuje, ne smije reci vecu vrijednost od ocekivane ukupne tezine
+	- idealna heuristika daje tocnu "cijenu" do cilja
+	- tezinska suma je isto optimisticnaako su obje heuristike optimisticne
+- konzistenta heuristika
+	- moze se gledati nejednakost trokuta
+	- zbroj kateta je veci od hipotenuze
+- netraktabilna (veca od polinomijalne) prostorne slozenosti
+	- vrste slozenosti
+		- prostorna
+		- vremenska
+- a* gleda najmanji trosak
+	- trosak do tog stanja + heuritika za sljedeci
+- implicitna definicija funckije sljedebenika
+	- algoritam koji ce za svako stanje vratiti listu sljedecih stanja
+- eksplicitno definicija
+	- negdje na kompu imamo ogromnu mapu koja govori sljedbenike za svako stanje
+
+---
+# References

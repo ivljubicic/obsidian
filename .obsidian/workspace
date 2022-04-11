@@ -1,0 +1,153 @@
+{
+  "main": {
+    "id": "d8bdaa0e67e4d584",
+    "type": "split",
+    "children": [
+      {
+        "id": "9beb01b034a43589",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "200 Research/Revenge 5.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "15e691305b8d2115",
+    "type": "split",
+    "children": [
+      {
+        "id": "4242a3870cb06360",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "48f1d8aa8db2f821",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "bbff354a6c647297",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "257a8c25518f1189",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "d8f0997b4fd51b29",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 291.5036334991455,
+    "collapsed": true
+  },
+  "right": {
+    "id": "9ba6b5c03edf8750",
+    "type": "split",
+    "children": [
+      {
+        "id": "48a87385d0cd24ff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2911d7180bb9baff",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "200 Research/Revenge 5.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "cf84dc4c460e6962",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "200 Research/Revenge 5.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1c0a47b6f59866a4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6e70f29451760419",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "200 Research/Revenge 5.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 320,
+    "collapsed": true
+  },
+  "active": "9beb01b034a43589",
+  "lastOpenFiles": [
+    "200 Research/Revenge 5.md",
+    "200 Research/Revenge 4.md",
+    "200 Research/Revenge 3.md",
+    "100 Faks/Docker.md",
+    "000 Zettelkasten/UUUI 2lab.md",
+    "000 Zettelkasten/Docker network.md",
+    "Daily notes/Sistemi.md",
+    "Daily notes/Moje Pogreske.md",
+    "Daily notes/02-04-2022.md",
+    "Daily notes/01-04-2022.md"
+  ]
+}

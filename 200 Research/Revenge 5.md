@@ -1,0 +1,77 @@
+202204061423
+Tags: 
+
+# Revenge 5
+- file format
+	- metapodatci
+		- exif
+	- pocetna 4 byta u file - magic govore sta je file type
+		- mz header
+	- CRC, cyclic redundancy check, provjera integriteta filea
+- driveri jedini imaju pristup fizickoj memoriji
+- kasnije bude bitno
+	- offset
+	- virtualna memorija tj virtualna adresa
+		- nikad nije jednaka fizickoj memorijskoj adresi
+	- pokazivac stoga
+- overlay
+	- nista ne pokazuje na njega
+	- ne ulazi u validaciju
+	- prva lokacija da mozemo ubaciti nesto
+- pe
+	- pocinje sa MZ headerom
+	- PE header
+		- svoje magic bytove u kojima pise "PE"
+		- karakteristike
+		- relatavina virtualna adresa
+	- u virtualnoj memoriji
+		- kod operativnog sustava pohranjen na adresama visim od 0x80000000
+		- svaki proces ima svoju
+		- dva procesa se mogu pohraniti na istu virutalnu memoriju
+	- paging
+		- ako nema vise mjesta u RAMu se fizicka memorija od procesa
+	- vrste
+		- exe, dll, sys
+		- ![[Pasted image 20220406152406.png]]
+		- PE header zapocinje na 00F0
+		- ![[Pasted image 20220406152731.png]]
+		- characteristics
+- optional header
+	- magic bytovi govore 32 ili 64 bit
+	- x108 ili x208
+- section header
+	- popis svih sectiona
+	- zapravo mjesto gdje se nalaze pravi podatci
+	- relativna virtualna adresa od baze, od 0x0040
+	- virtualan velicina
+		- veca od velicine podataka na discu
+		- kaze koliko zauzima u virtualnoj memoriji
+		- pravljenje mjesta za neinicijalizirane podatke
+- poravnanvanje
+	- file i section alignment
+		- pointeri se alignaju na doljnju vrijednost **koja valja**
+		- velicine se alignaju na vecu vrijednost
+			- barem toli
+- VA = imageBase + RVA
+- sekcija
+	- konverzija koja se desi pri ucitavanju filea u relativnu virtualnu adresu se PtrToRawData zaokruzuju na visekratnike od 1000
+- data directories
+	- parovi oblika (adresa, velicina)
+	- windows ima tablice koje neke trebamo ucitati u memoriju
+	- export, import, resource, relocation, tls
+		- export najcesce kod DLLova prisutan
+		- ima tri tablice
+			- tablica s pokazivacima na imena
+				- lista RVA prema imena funckije
+- ![[Pasted image 20220406171528.png]]
+- tu se bude proslijedio glavni program
+	- data su relativne vrijednosti
+	- ne moze se vidjeti nista od operativnog sustava
+- ![[Pasted image 20220406172339.png]]
+	- govori koliko image sectiona trebamo ucitati
+- sta mora vrijediti da se aplikacija pokrece
+	- treba biti dobar broj loading sekcija
+	- ![[Pasted image 20220406174009.png]]
+
+---
+# References

@@ -1,0 +1,37 @@
+{
+  "promptDelete": false,
+  "spellcheck": true,
+  "foldIndent": true,
+  "foldHeading": false,
+  "fileSortOrder": "byCreatedTime",
+  "alwaysUpdateLinks": true,
+  "spellcheckDictionary": [
+    "incentivised",
+    "routable",
+    "admoninition",
+    "Todays",
+    "Subnet",
+    "subnet",
+    "diffuser",
+    "Chipoteka",
+    "broadcasted",
+    "retransmission",
+    "quantative",
+    "defaultly",
+    "norming",
+    "Interquartile",
+    "quartile"
+  ],
+  "showLineNumber": false,
+  "vimMode": false,
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "legacyEditor": false,
+  "livePreview": true,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "Pictures"
+}
