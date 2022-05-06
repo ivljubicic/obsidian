@@ -73,5 +73,54 @@ Tags:
 	- treba biti dobar broj loading sekcija
 	- ![[Pasted image 20220406174009.png]]
 
+- exporti
+	- ordinal base, od kojeg broja pocinju redni brojevi, **gotovo uvijek 1**
+	- ad t, cita onoliko funckija koliki je number of functions
+	- np t, cita koliko ima number of names
+	- number of functions je broj koliko funckija neki dll exporta
+	- number of names je broj funckija koji neki program koristi od dllova?
+- importi
+	- svi dllovi od nekog libraryja se ucitaju u sistemski dio memorije
+	- i dependency od tih dllova isto
+	- kako znamo na kojim adresama
+	- tablica importova
+		- OriginalFirstThunk
+			- **ako postoji**
+				- kada ne postoji gleda se FirstThunk
+				- mozemo pomocu njega pronaci imena importova APIja
+			- redundacija sa FristThunk
+			- RVA lookup tablice u importima
+			- pokazuje na listu **import thunkova**
+				- zapis opisa APija
+				- citamo sve funckije koje trebamo importati
+				- Hint/Name
+			- Ordinal
+				- kada pocinje ordinal sa 8 znaci gledamo ordinale a ne po imenu
+		- NameRVA
+			- samo ime dll kojeg importamo
+		  - FirstThunk
+			  - RVA adresne tablice importa
+			  - svi podatci kao u OriginalFT dok se podatci ne ucitaju u memoriju
+				  - ali pokazuje na drugu yablicu
+		  - dvije vrste nacina importa
+			  - imena
+			  - ordinal
+  - resources
+	  - tablica gdje se nalaze resursi
+		  - npr ikona
+	  - entry
+		  - moze biti name ili id
+	- tip -> ime -> jezik
+- ostalo
+	- relokacije
+		- kada imamo dva DLLa koji zele oba biti na adresi 1000
+		- sustav mora odrediti kome dati 1000
+		- **popis svih lokacija koje trebamo promjeniti**
+	- debug simboli
+- PE parser
+	- najbolje u cpp napraviti
+	- dojavljivati greske koje su bile prije
+	- ucitati koliko data directorya ima
+
 ---
 # References

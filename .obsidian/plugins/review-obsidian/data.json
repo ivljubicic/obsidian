@@ -1,6 +1,6 @@
 {
   "dailyNotesFolder": "",
-  "reviewSectionHeading": "# Review",
+  "reviewSectionHeading": "## Review",
   "linePrefix": "- ",
   "defaultReviewDate": "",
   "blockLinePrefix": "!"
