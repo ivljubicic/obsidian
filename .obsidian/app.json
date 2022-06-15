@@ -2,7 +2,7 @@
   "promptDelete": false,
   "spellcheck": true,
   "foldIndent": true,
-  "foldHeading": false,
+  "foldHeading": true,
   "fileSortOrder": "byCreatedTime",
   "alwaysUpdateLinks": true,
   "spellcheckDictionary": [
@@ -33,5 +33,6 @@
   "legacyEditor": false,
   "livePreview": true,
   "newFileLocation": "current",
-  "attachmentFolderPath": "Pictures"
+  "attachmentFolderPath": "Pictures",
+  "showFrontmatter": false
 }

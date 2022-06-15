@@ -1,84 +1,152 @@
 {
   "recentFiles": [
     {
-      "basename": "Izvjestaj 6.5",
-      "path": "Daily notes/Izvjestaj 6.5.md"
+      "basename": "Projekt",
+      "path": "100 Faks/Projekt.md"
+    },
+    {
+      "basename": "Life OS",
+      "path": "200 Research/Life OS.md"
+    },
+    {
+      "basename": "Pitanja za firmu",
+      "path": "200 Research/Pitanja za firmu.md"
+    },
+    {
+      "basename": "Metasploit",
+      "path": "100 Faks/Metasploit.md"
+    },
+    {
+      "basename": "FER3 diplomski",
+      "path": "200 Research/FER3 diplomski.md"
     },
     {
       "basename": "Zavrsni rad",
       "path": "200 Research/Zavrsni rad.md"
     },
     {
-      "basename": "Izvjestaj 15.4",
-      "path": "Daily notes/Izvjestaj 15.4.md"
+      "basename": "apt update",
+      "path": "100 Faks/apt update.md"
     },
     {
-      "basename": "02-05-2022",
-      "path": "Daily notes/02-05-2022.md"
+      "basename": "Malicious Libre",
+      "path": "100 Faks/Malicious Libre.md"
     },
     {
-      "basename": "03-05-2022",
-      "path": "Daily notes/03-05-2022.md"
+      "basename": "Izvjestaj 20.5.",
+      "path": "100 Faks/Izvjestaj 20.5..md"
     },
     {
-      "basename": "05-05-2022",
-      "path": "Daily notes/05-05-2022.md"
+      "basename": "07-06-2022",
+      "path": "Daily notes/07-06-2022.md"
     },
     {
-      "basename": "Filmovi",
-      "path": "Daily notes/Filmovi.md"
+      "basename": "06-06-2022",
+      "path": "Daily notes/06-06-2022.md"
     },
     {
-      "basename": "Pismo za Job fair",
-      "path": "Daily notes/Pismo za Job fair.md"
+      "basename": "04-06-2022",
+      "path": "Daily notes/04-06-2022.md"
     },
     {
-      "basename": "01-05-2022",
-      "path": "Daily notes/01-05-2022.md"
+      "basename": "srs 4 lab",
+      "path": "Daily notes/srs 4 lab.md"
     },
     {
-      "basename": "19-04-2022",
-      "path": "Daily notes/19-04-2022.md"
+      "basename": "UUUI 4lab",
+      "path": "000 Zettelkasten/UUUI 4lab.md"
     },
     {
-      "basename": "Minimax algoritmi",
-      "path": "Daily notes/Minimax algoritmi.md"
+      "basename": "Pisanje zavrsnog",
+      "path": "000 Zettelkasten/Pisanje zavrsnog.md"
     },
     {
-      "basename": "Morning pages 30.4",
-      "path": "Daily notes/Morning pages 30.4.md"
+      "basename": "Send payload with Metasploit",
+      "path": "000 Zettelkasten/Send payload with Metasploit.md"
     },
     {
-      "basename": "pestle i swot",
-      "path": "Daily notes/pestle i swot.md"
+      "basename": "Docker Compose",
+      "path": "100 Faks/Docker Compose.md"
     },
     {
-      "basename": "Morning pages 1.5",
-      "path": "Daily notes/Morning pages 1.5.md"
+      "basename": "Docker network",
+      "path": "000 Zettelkasten/Docker network.md"
     },
     {
-      "basename": "30-04-2022",
-      "path": "Daily notes/30-04-2022.md"
+      "basename": "01-06-2022",
+      "path": "Daily notes/01-06-2022.md"
     },
     {
-      "basename": "29-04-2022",
-      "path": "Daily notes/29-04-2022.md"
+      "basename": "Docker",
+      "path": "100 Faks/Docker.md"
     },
     {
-      "basename": "28-04-2022",
-      "path": "Daily notes/28-04-2022.md"
+      "basename": "30-05-2022",
+      "path": "Daily notes/30-05-2022.md"
     },
     {
-      "basename": "22-04-2022",
-      "path": "Daily notes/22-04-2022.md"
+      "basename": "Mrepro lab2",
+      "path": "Daily notes/Mrepro lab2.md"
     },
     {
-      "basename": "Logic in AI",
-      "path": "Daily notes/Logic in AI.md"
+      "basename": "Mrezno programirnaje",
+      "path": "200 Research/Mrezno programirnaje.md"
     },
     {
-      "basename": "20-04-2022",
-      "path": "Daily notes/20-04-2022.md"
+      "basename": "28-05-2022",
+      "path": "Daily notes/28-05-2022.md"
+    },
+    {
+      "basename": "Mrepro lab1",
+      "path": "Daily notes/Mrepro lab1.md"
+    },
+    {
+      "basename": "Kommre 3 labos",
+      "path": "Daily notes/Kommre 3 labos.md"
+    },
+    {
+      "basename": "26-05-2022",
+      "path": "Daily notes/26-05-2022.md"
+    },
+    {
+      "basename": "27-05-2022",
+      "path": "Daily notes/27-05-2022.md"
+    },
+    {
+      "basename": "Unconnected DGRAMs",
+      "path": "200 Research/Unconnected DGRAMs.md"
+    },
+    {
+      "basename": "UDP server and client",
+      "path": "200 Research/UDP server and client.md"
+    },
+    {
+      "basename": "Nmap",
+      "path": "000 Zettelkasten/Nmap.md"
+    },
+    {
+      "basename": "25-05-2022",
+      "path": "Daily notes/25-05-2022.md"
+    },
+    {
+      "basename": "24-05-2022",
+      "path": "Daily notes/24-05-2022.md"
+    },
+    {
+      "basename": "UUUI 3lab",
+      "path": "200 Research/UUUI 3lab.md"
+    },
+    {
+      "basename": "Zavrsni rad 19.5.",
+      "path": "200 Research/Zavrsni rad 19.5..md"
+    },
+    {
+      "basename": "Zavrsni rad 18.5.",
+      "path": "200 Research/Zavrsni rad 18.5..md"
+    },
+    {
+      "basename": "Zavrsni rad 17.5",
+      "path": "200 Research/Zavrsni rad 17.5.md"
     },
     {
       "basename": "New zettelksasten",
@@ -89,116 +157,48 @@
       "path": "New daily note.md"
     },
     {
-      "basename": "18-04-2022",
-      "path": "Daily notes/18-04-2022.md"
+      "basename": "Ansible",
+      "path": "100 Faks/Ansible.md"
     },
     {
-      "basename": "16-04-2022",
-      "path": "Daily notes/16-04-2022.md"
+      "basename": "Brute forcing",
+      "path": "000 Zettelkasten/Brute forcing.md"
     },
     {
-      "basename": "15-04-2022",
-      "path": "Daily notes/15-04-2022.md"
+      "basename": "Broadcast address",
+      "path": "000 Zettelkasten/Broadcast address.md"
     },
     {
-      "basename": "14-04-2022",
-      "path": "Daily notes/14-04-2022.md"
+      "basename": "Untitled",
+      "path": "200 Research/Untitled.md"
     },
     {
-      "basename": "Kommre 1 labos",
-      "path": "200 Research/Kommre 1 labos.md"
+      "basename": "mrepro lab3",
+      "path": "Daily notes/mrepro lab3.md"
     },
     {
-      "basename": "Revenge 5",
-      "path": "200 Research/Revenge 5.md"
+      "basename": "Posjetiti za ljeto",
+      "path": "Daily notes/Posjetiti za ljeto.md"
     },
     {
-      "basename": "13-04-2022",
-      "path": "Daily notes/13-04-2022.md"
+      "basename": "19-05-2022",
+      "path": "Daily notes/19-05-2022.md"
     },
     {
-      "basename": "12-04-2022",
-      "path": "Daily notes/12-04-2022.md"
+      "basename": "18-05-2022",
+      "path": "Daily notes/18-05-2022.md"
     },
     {
-      "basename": "Revenge 4",
-      "path": "200 Research/Revenge 4.md"
+      "basename": "TFTP server",
+      "path": "200 Research/TFTP server.md"
     },
     {
-      "basename": "Revenge 3",
-      "path": "200 Research/Revenge 3.md"
+      "basename": "Study companion",
+      "path": "200 Research/Study companion.md"
     },
     {
-      "basename": "Revenge 2",
-      "path": "200 Research/Revenge 2.md"
-    },
-    {
-      "basename": "11-04-2022",
-      "path": "Daily notes/11-04-2022.md"
-    },
-    {
-      "basename": "02-04-2022",
-      "path": "Daily notes/02-04-2022.md"
-    },
-    {
-      "basename": "primjer",
-      "path": "200 Research/primjer.md"
-    },
-    {
-      "basename": "Docker",
-      "path": "100 Faks/Docker.md"
-    },
-    {
-      "basename": "UUUI 2lab",
-      "path": "000 Zettelkasten/UUUI 2lab.md"
-    },
-    {
-      "basename": "Docker network",
-      "path": "000 Zettelkasten/Docker network.md"
-    },
-    {
-      "basename": "Sistemi",
-      "path": "Daily notes/Sistemi.md"
-    },
-    {
-      "basename": "Moje Pogreske",
-      "path": "Daily notes/Moje Pogreske.md"
-    },
-    {
-      "basename": "01-04-2022",
-      "path": "Daily notes/01-04-2022.md"
-    },
-    {
-      "basename": "Networking basics",
-      "path": "000 Zettelkasten/Networking basics.md"
-    },
-    {
-      "basename": "Topologies",
-      "path": "Haxing/Topologies.md"
-    },
-    {
-      "basename": "Zivotni portfolio stranica",
-      "path": "Daily notes/Zivotni portfolio stranica.md"
-    },
-    {
-      "basename": "31-03-2022",
-      "path": "Daily notes/31-03-2022.md"
-    },
-    {
-      "basename": "Synopsis Cant hurt me",
-      "path": "Daily notes/Synopsis Cant hurt me.md"
-    },
-    {
-      "basename": "29-03-2022",
-      "path": "Daily notes/29-03-2022.md"
-    },
-    {
-      "basename": "UUUI 1 lab",
-      "path": "Daily notes/UUUI 1 lab.md"
-    },
-    {
-      "basename": "Ideje za aplikaciju",
-      "path": "Daily notes/Ideje za aplikaciju.md"
+      "basename": "()",
+      "path": "200 Research/().md"
     }
   ],
   "omittedPaths": [],

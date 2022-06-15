@@ -114,5 +114,13 @@
       ],
       "key": "L"
     }
+  ],
+  "url-into-selection:paste-url-into-selection": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "V"
+    }
   ]
 }

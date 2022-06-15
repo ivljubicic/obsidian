@@ -1,0 +1,21 @@
+# SRS 4. labaratorijska vježba
+- follow TCP stream za TELNET ![[Pasted image 20220605130855.png]]
+- follow TCP stream za SSH ![[Pasted image 20220605130933.png]]
+
+- dodajte “anti-spoofing” pravila
+	- sprijeciti pakete koji dolaze na sucelje eth0 da imaju IP adresu DMZ-a ili LAN-a
+- računala iz lokalne mreže (LAN) imaju neograničeni pristup poslužiteljima u DMZ i Internetu
+	- `iptables -A FORWARD -i eth1 -m state --state NEW -j ACCEPT`
+	- propustiti cemo sav promet koji dolazi iz LAN-a pomoću `-i eth1` zastavice
+	- zastavica `--state NEW` oznacava da su paketi tek kreirani
+	- pomocu `-j ACCEPT` oznacavamo da takve pakete prihvacamo
+- iz vanjske mreže (Interneta) dozvoljen je pristup poslužitelju server u DMZ korištenjem protokola SSH (tcp port 22)
+	- propustamo sve pakete koji imaju izvorište iz subneta `192.0.2.0/24` i koji idu prema serveru tj `-d 203.0.113.10` na port 22 `--dport 22`
+	- isto tako za port 53 i `-p udp` i `-p tcp``
+- pristup iz vanjske mreže u lokalnu LAN mrežu je zabranjen
+	- isti postupak kao za ranije pakete
+	- signaliziramo sa `-j DROP` da takvu vrstu paketa želimo odbaciti
+- s poslužitelja server je dozvoljen pristup DNS poslužiteljima u Internetu (UDP i TCP port 53)
+	- `-d 192.0.2.0/24` tu stavljamo subnet internet kao odredište, a kao izvorišni port postvljamo 53 ` --sport 53`
+- SSH pristup vatrozidu firewall je dozvoljen samo s računala admin (LAN)
+	- sa `-A INPUT` naznačujemo da želimo filtirati pakete koju su baš namijenjeni za router

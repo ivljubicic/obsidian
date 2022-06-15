@@ -1,6 +1,6 @@
 {
-  "baseFontSize": 22,
+  "baseFontSize": 25,
   "cssTheme": "Atom",
   "translucency": false,
-  "theme": "moonstone"
+  "theme": "obsidian"
 }

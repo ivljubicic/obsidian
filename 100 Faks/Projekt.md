@@ -2,7 +2,6 @@
 date updated: 11-11-21T21:47:19+01:00
 
 ---
-[]()
 # Generalni read me kako pokretati kiberneticku mrezu
 1. za pokretanje svih virtualnih machina `sudo docker-compose up`
 

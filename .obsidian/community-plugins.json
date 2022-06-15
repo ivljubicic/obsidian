@@ -1,13 +1,13 @@
 [
   "markdown-prettifier",
   "obsidian-mind-map",
-  "url-into-selection",
   "cm-editor-syntax-highlight-obsidian",
   "obsidian-admonition",
   "review-obsidian",
   "recent-files-obsidian",
   "darlal-switcher-plus",
-  "sliding-panes-obsidian",
   "obsidian-git",
-  "nldates-obsidian"
+  "nldates-obsidian",
+  "url-into-selection",
+  "sliding-panes-obsidian"
 ]

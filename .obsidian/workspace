@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "718e4db6df44fb3a",
+        "id": "b612ceec6ca3fac6",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Daily notes/Izvjestaj 6.5.md",
+            "file": "100 Faks/Projekt.md",
             "mode": "source",
             "source": false
           }
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily notes/Izvjestaj 6.5.md",
+                "file": "100 Faks/Projekt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily notes/Izvjestaj 6.5.md",
+                "file": "100 Faks/Projekt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily notes/Izvjestaj 6.5.md"
+                "file": "100 Faks/Projekt.md"
               }
             }
           },
@@ -146,17 +147,17 @@
     "width": 320,
     "collapsed": true
   },
-  "active": "718e4db6df44fb3a",
+  "active": "b612ceec6ca3fac6",
   "lastOpenFiles": [
-    "Daily notes/Izvjestaj 6.5.md",
+    "100 Faks/Projekt.md",
+    "200 Research/Life OS.md",
+    "200 Research/Pitanja za firmu.md",
+    "100 Faks/Metasploit.md",
+    "200 Research/FER3 diplomski.md",
     "200 Research/Zavrsni rad.md",
-    "Daily notes/Izvjestaj 15.4.md",
-    "Daily notes/02-05-2022.md",
-    "Daily notes/03-05-2022.md",
-    "Daily notes/05-05-2022.md",
-    "Daily notes/Filmovi.md",
-    "Daily notes/Pismo za Job fair.md",
-    "Daily notes/01-05-2022.md",
-    "Daily notes/19-04-2022.md"
+    "100 Faks/apt update.md",
+    "100 Faks/Malicious Libre.md",
+    "100 Faks/Izvjestaj 20.5..md",
+    "Daily notes/07-06-2022.md"
   ]
 }
