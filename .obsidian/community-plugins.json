@@ -9,5 +9,10 @@
   "obsidian-git",
   "nldates-obsidian",
   "url-into-selection",
-  "sliding-panes-obsidian"
+  "sliding-panes-obsidian",
+  "obsidian-kanban",
+  "calendar",
+  "dataview",
+  "obsidian-outliner",
+  "table-editor-obsidian"
 ]

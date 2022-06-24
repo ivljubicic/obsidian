@@ -67,6 +67,6 @@ Tags:
 ## Teorija dokaza
 - deduktivna posljedica
 	- G mozemo **izvest iz premisa F**
-	- F ->G
+	- F->G
 ---
 # References

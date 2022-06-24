@@ -1,4 +1,4 @@
-# SRS 4. labaratorijska vježba
+i# SRS 4. labaratorijska vježba
 - follow TCP stream za TELNET ![[Pasted image 20220605130855.png]]
 - follow TCP stream za SSH ![[Pasted image 20220605130933.png]]
 
@@ -9,7 +9,7 @@
 	- propustiti cemo sav promet koji dolazi iz LAN-a pomoću `-i eth1` zastavice
 	- zastavica `--state NEW` oznacava da su paketi tek kreirani
 	- pomocu `-j ACCEPT` oznacavamo da takve pakete prihvacamo
-- iz vanjske mreže (Interneta) dozvoljen je pristup poslužitelju server u DMZ korištenjem protokola SSH (tcp port 22)
+- iz vanjske mreže (Interneta) dozvoljen je pristup poslužitelju server `u DMZ korištenjem protokola SSH (tcp port 22)
 	- propustamo sve pakete koji imaju izvorište iz subneta `192.0.2.0/24` i koji idu prema serveru tj `-d 203.0.113.10` na port 22 `--dport 22`
 	- isto tako za port 53 i `-p udp` i `-p tcp``
 - pristup iz vanjske mreže u lokalnu LAN mrežu je zabranjen

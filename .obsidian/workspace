@@ -1,15 +1,15 @@
 {
   "main": {
-    "id": "d8bdaa0e67e4d584",
+    "id": "eefc059c1dad4c29",
     "type": "split",
     "children": [
       {
-        "id": "b612ceec6ca3fac6",
+        "id": "b42f28f52a5404b2",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "100 Faks/Projekt.md",
+            "file": "Daily notes/srs 4 lab.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"faks\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -50,18 +50,18 @@
             }
           },
           {
-            "id": "257a8c25518f1189",
+            "id": "b72594d1c00a97bc",
             "type": "leaf",
             "state": {
-              "type": "starred",
+              "type": "recent-files",
               "state": {}
             }
           },
           {
-            "id": "d8f0997b4fd51b29",
+            "id": "257a8c25518f1189",
             "type": "leaf",
             "state": {
-              "type": "recent-files",
+              "type": "starred",
               "state": {}
             }
           }
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291.5036334991455,
-    "collapsed": true
+    "width": 291.5036334991455
   },
   "right": {
     "id": "9ba6b5c03edf8750",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100 Faks/Projekt.md",
+                "file": "Daily notes/srs 4 lab.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100 Faks/Projekt.md",
+                "file": "Daily notes/srs 4 lab.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,37 +126,59 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100 Faks/Projekt.md"
+                "file": "Daily notes/srs 4 lab.md"
               }
             }
           },
           {
-            "id": "2c03e9771fd7b0d7",
+            "id": "b258f53b6c7f0c32",
             "type": "leaf",
             "state": {
-              "type": "git-view",
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "a1ded81e33748b7d",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
               "state": {}
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
+      },
+      {
+        "id": "6d7642bda448fec6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "33a8fb26d2be7c7a",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 320,
+    "width": 419.953125,
     "collapsed": true
   },
-  "active": "b612ceec6ca3fac6",
+  "active": "b42f28f52a5404b2",
   "lastOpenFiles": [
-    "100 Faks/Projekt.md",
-    "200 Research/Life OS.md",
-    "200 Research/Pitanja za firmu.md",
-    "100 Faks/Metasploit.md",
-    "200 Research/FER3 diplomski.md",
-    "200 Research/Zavrsni rad.md",
-    "100 Faks/apt update.md",
-    "100 Faks/Malicious Libre.md",
-    "100 Faks/Izvjestaj 20.5..md",
-    "Daily notes/07-06-2022.md"
+    "Daily notes/srs 4 lab.md",
+    "SRS security Kanban.md",
+    "SRS security Kanban.md",
+    "Kanbans/Kommre Kanban.md",
+    "Daily notes/Logic in AI.md",
+    "Kanbans/UUUI Kanban.md",
+    "10. vjezbe - Strojno ucenje.md",
+    "000 Zettelkasten/IP and MAC.md",
+    "NAT and PAT.md",
+    "The Lex 6.md"
   ]
 }

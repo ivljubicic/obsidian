@@ -1,5 +1,8 @@
-{{date:YYYYMMDD}}{{time:HHmm}}
-Tags: 
+---
+alias: ""
+theme: ""
+edited: {{date}}
+---
 # {{title}}
 
 ---
