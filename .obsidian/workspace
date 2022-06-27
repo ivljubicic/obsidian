@@ -1,10 +1,20 @@
 {
   "main": {
-    "id": "eefc059c1dad4c29",
+    "id": "d8bdaa0e67e4d584",
     "type": "split",
     "children": [
       {
-        "id": "b42f28f52a5404b2",
+        "id": "72641eb7cfa41e9c",
+        "type": "leaf",
+        "state": {
+          "type": "kanban",
+          "state": {
+            "file": "SRS security Kanban.md"
+          }
+        }
+      },
+      {
+        "id": "f3b718dc0c73802b",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -12,6 +22,70 @@
             "file": "Daily notes/srs 4 lab.md",
             "mode": "source",
             "source": false
+          }
+        }
+      },
+      {
+        "id": "d5c90cb5b669d2aa",
+        "type": "leaf",
+        "state": {
+          "type": "pdf",
+          "state": {
+            "file": "PDFs/srs_lv_4[1].pdf"
+          }
+        }
+      },
+      {
+        "id": "9a6f9c070bacc883",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Firewall rules.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "a2314d2ffdf06a8c",
+        "type": "leaf",
+        "state": {
+          "type": "pdf",
+          "state": {
+            "file": "Pictures/11.3_Mrezna_sigurnost_--_treci_dio.pdf"
+          }
+        }
+      },
+      {
+        "id": "83e01e88ca0bbc3d",
+        "type": "leaf",
+        "state": {
+          "type": "pdf",
+          "state": {
+            "file": "Pictures/Zadaci_za_pripremu_za_zavrsni_ispit (1).pdf"
+          }
+        }
+      },
+      {
+        "id": "02b494428b624de6",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Daily notes/SRS 3 lab.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "836979a58930e264",
+        "type": "leaf",
+        "state": {
+          "type": "pdf",
+          "state": {
+            "file": "Pictures/srs_lv_3[1].pdf"
           }
         }
       }
@@ -40,7 +114,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"faks\"",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -50,18 +124,18 @@
             }
           },
           {
-            "id": "b72594d1c00a97bc",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {}
-            }
-          },
-          {
             "id": "257a8c25518f1189",
             "type": "leaf",
             "state": {
               "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "d8f0997b4fd51b29",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
               "state": {}
             }
           }
@@ -70,7 +144,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291.5036334991455
+    "width": 292,
+    "collapsed": true
   },
   "right": {
     "id": "9ba6b5c03edf8750",
@@ -86,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily notes/srs 4 lab.md",
+                "file": "SRS security Kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily notes/srs 4 lab.md",
+                "file": "SRS security Kanban.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,59 +201,45 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily notes/srs 4 lab.md"
+                "file": "SRS security Kanban.md"
               }
             }
           },
           {
-            "id": "b258f53b6c7f0c32",
+            "id": "2c03e9771fd7b0d7",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "df0a66437746c263",
             "type": "leaf",
             "state": {
               "type": "calendar",
               "state": {}
             }
-          },
-          {
-            "id": "a1ded81e33748b7d",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 5
-      },
-      {
-        "id": "6d7642bda448fec6",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "33a8fb26d2be7c7a",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {}
-            }
-          }
-        ]
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 419.953125,
+    "width": 320,
     "collapsed": true
   },
-  "active": "b42f28f52a5404b2",
+  "active": "72641eb7cfa41e9c",
   "lastOpenFiles": [
+    "SRS security Kanban.md",
     "Daily notes/srs 4 lab.md",
-    "SRS security Kanban.md",
-    "SRS security Kanban.md",
-    "Kanbans/Kommre Kanban.md",
-    "Daily notes/Logic in AI.md",
-    "Kanbans/UUUI Kanban.md",
-    "10. vjezbe - Strojno ucenje.md",
-    "000 Zettelkasten/IP and MAC.md",
-    "NAT and PAT.md",
-    "The Lex 6.md"
+    "PDFs/srs_lv_4[1].pdf",
+    "Firewall rules.md",
+    "FTP protocol.md",
+    "Security of DNS.md",
+    "Protokol SSH.md",
+    "Scanning UDP ports.md",
+    "Scanning open TCP ports.md",
+    "Pictures/11.3_Mrezna_sigurnost_--_treci_dio.pdf"
   ]
 }

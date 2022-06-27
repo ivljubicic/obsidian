@@ -1,188 +1,204 @@
 {
   "recentFiles": [
     {
-      "basename": "srs 4 lab",
-      "path": "Daily notes/srs 4 lab.md"
-    },
-    {
       "basename": "SRS security Kanban",
       "path": "SRS security Kanban.md"
     },
     {
-      "basename": "Kommre Kanban",
-      "path": "Kanbans/Kommre Kanban.md"
+      "basename": "srs 4 lab",
+      "path": "Daily notes/srs 4 lab.md"
     },
     {
-      "basename": "Logic in AI",
-      "path": "Daily notes/Logic in AI.md"
+      "basename": "srs_lv_4[1]",
+      "path": "PDFs/srs_lv_4[1].pdf"
     },
     {
-      "basename": "UUUI Kanban",
-      "path": "Kanbans/UUUI Kanban.md"
+      "basename": "Firewall rules",
+      "path": "Firewall rules.md"
     },
     {
-      "basename": "10. vjezbe - Strojno ucenje",
-      "path": "10. vjezbe - Strojno ucenje.md"
+      "basename": "FTP protocol",
+      "path": "FTP protocol.md"
     },
     {
-      "basename": "IP and MAC",
-      "path": "000 Zettelkasten/IP and MAC.md"
+      "basename": "Security of DNS",
+      "path": "Security of DNS.md"
     },
     {
-      "basename": "NAT and PAT",
-      "path": "NAT and PAT.md"
+      "basename": "Protokol SSH",
+      "path": "Protokol SSH.md"
     },
     {
-      "basename": "The Lex 6",
-      "path": "The Lex 6.md"
+      "basename": "Scanning UDP ports",
+      "path": "Scanning UDP ports.md"
     },
     {
-      "basename": "uuui_10vjezbe_rjesenje_1",
-      "path": "uuui_10vjezbe_rjesenje_1.jpg"
+      "basename": "Scanning open TCP ports",
+      "path": "Scanning open TCP ports.md"
     },
     {
-      "basename": "uuui_10vjezbe_rjesenje_2",
-      "path": "uuui_10vjezbe_rjesenje_2.jpg"
+      "basename": "11.3_Mrezna_sigurnost_--_treci_dio",
+      "path": "Pictures/11.3_Mrezna_sigurnost_--_treci_dio.pdf"
     },
     {
-      "basename": "21-06-2022",
-      "path": "Daily notes/21-06-2022.md"
+      "basename": "DDoS",
+      "path": "DDoS.md"
     },
     {
-      "basename": "Workout plan",
-      "path": "Workout plan.md"
+      "basename": "TLS protocol",
+      "path": "TLS protocol.md"
     },
     {
-      "basename": "Testiranje dataview-a",
-      "path": "Testiranje dataview-a.md"
+      "basename": "Digital certificates",
+      "path": "Digital certificates.md"
     },
     {
-      "basename": "Second brain outline",
-      "path": "Second brain outline.md"
+      "basename": "CA i PKI",
+      "path": "CA i PKI.md"
+    },
+    {
+      "basename": "VPN",
+      "path": "VPN.md"
+    },
+    {
+      "basename": "11.2_Mrezna_sigurnost_--_drugi_dio",
+      "path": "Pictures/11.2_Mrezna_sigurnost_--_drugi_dio.pdf"
+    },
+    {
+      "basename": "TCP attacks",
+      "path": "TCP attacks.md"
+    },
+    {
+      "basename": "UDP storms",
+      "path": "UDP storms.md"
+    },
+    {
+      "basename": "IPv6 vulnerabilites",
+      "path": "IPv6 vulnerabilites.md"
+    },
+    {
+      "basename": "IPv4 vulnerabilities",
+      "path": "IPv4 vulnerabilities.md"
+    },
+    {
+      "basename": "ARP vulnerability",
+      "path": "ARP vulnerability.md"
     },
     {
       "basename": "Raspberry Pi server",
       "path": "Raspberry Pi server.md"
     },
     {
-      "basename": "Meal prep",
-      "path": "Meal prep.md"
+      "basename": "Second brain outline",
+      "path": "Second brain outline.md"
     },
     {
-      "basename": "Home automation",
-      "path": "Home automation.md"
+      "basename": "MitM ARP attack on a network",
+      "path": "MitM ARP attack on a network.png"
     },
     {
-      "basename": "Web automation",
-      "path": "Web automation.md"
+      "basename": "XSS attacks",
+      "path": "XSS attacks.md"
     },
     {
-      "basename": "Grilled chicken",
-      "path": "Grilled chicken.md"
+      "basename": "10-Sigurnost-web-aplikacija",
+      "path": "Pictures/10-Sigurnost-web-aplikacija.pdf"
     },
     {
-      "basename": "Garden automation",
-      "path": "Garden automation.md"
+      "basename": "srs_lv_3[1]",
+      "path": "Pictures/srs_lv_3[1].pdf"
     },
     {
-      "basename": "20-06-2022",
-      "path": "Daily notes/20-06-2022.md"
+      "basename": "11.1_Mrezna_sigurnost_--_prvi_dio",
+      "path": "Pictures/11.1_Mrezna_sigurnost_--_prvi_dio.pdf"
     },
     {
-      "basename": "LJIR 11. i 12 zadatak",
-      "path": "LJIR 11. i 12 zadatak.md"
+      "basename": "Sigurnost web aplikacija",
+      "path": "Sigurnost web aplikacija.md"
     },
     {
-      "basename": "uuui_ljir_21",
-      "path": "uuui_ljir_21.pdf"
+      "basename": "SQL injections",
+      "path": "SQL injections.md"
     },
     {
-      "basename": "Modeliranje neizvjesnosti",
-      "path": "Modeliranje neizvjesnosti.md"
+      "basename": "Zadaci_za_pripremu_za_zavrsni_ispit (1)",
+      "path": "Pictures/Zadaci_za_pripremu_za_zavrsni_ispit (1).pdf"
     },
     {
-      "basename": "New zettelksasten",
-      "path": "templates/New zettelksasten.md"
+      "basename": "SQL blind injection vs normal",
+      "path": "SQL blind injection vs normal.png"
     },
     {
-      "basename": "Ormaric ispod televizora",
-      "path": "Ormaric ispod televizora.md"
+      "basename": "SRS 3 lab",
+      "path": "Daily notes/SRS 3 lab.md"
     },
     {
-      "basename": "Journal 19.6.",
-      "path": "Journal 19.6..md"
+      "basename": "Wifi nugget",
+      "path": "Wifi nugget.md"
     },
     {
-      "basename": "Dovecot",
-      "path": "Dovecot.md"
+      "basename": "Analogna fotografija aplikacija",
+      "path": "Analogna fotografija aplikacija.md"
     },
     {
-      "basename": "Zavrsni Kanban",
-      "path": "Kanbans/Zavrsni Kanban.md"
+      "basename": "24-06-2022",
+      "path": "Daily notes/24-06-2022.md"
     },
     {
-      "basename": "mailserver",
-      "path": "mailserver.md"
+      "basename": "SRS zi ogledni",
+      "path": "Daily notes/SRS zi ogledni.md"
     },
     {
-      "basename": "Pisanje tehničke dokumentacije",
-      "path": "Pisanje tehničke dokumentacije.md"
+      "basename": "Lista filmova",
+      "path": "Daily notes/Lista filmova.md"
     },
     {
-      "basename": "Modularnost",
-      "path": "Modularnost.md"
+      "basename": "Untitled 1",
+      "path": "Daily notes/Untitled 1.md"
     },
     {
-      "basename": "Pravopisni savjeti",
-      "path": "Pravopisni savjeti.md"
+      "basename": "Untitled",
+      "path": "Daily notes/Untitled.md"
+    },
+    {
+      "basename": "Send payload with Metasploit",
+      "path": "000 Zettelkasten/Send payload with Metasploit.md"
     },
     {
       "basename": "Projekt",
       "path": "100 Faks/Projekt.md"
     },
     {
-      "basename": "Neiskoristene recenice",
-      "path": "Neiskoristene recenice.md"
+      "basename": "Life OS",
+      "path": "200 Research/Life OS.md"
+    },
+    {
+      "basename": "Pitanja za firmu",
+      "path": "200 Research/Pitanja za firmu.md"
+    },
+    {
+      "basename": "Metasploit",
+      "path": "100 Faks/Metasploit.md"
+    },
+    {
+      "basename": "FER3 diplomski",
+      "path": "200 Research/FER3 diplomski.md"
     },
     {
       "basename": "Zavrsni rad",
       "path": "200 Research/Zavrsni rad.md"
     },
     {
-      "basename": "Journal",
-      "path": "Journal.md"
-    },
-    {
-      "basename": "18-06-2022",
-      "path": "Daily notes/18-06-2022.md"
-    },
-    {
-      "basename": "Journal @today",
-      "path": "Journal @today.md"
-    },
-    {
-      "basename": "Resolvanje IP adresa",
-      "path": "Resolvanje IP adresa.md"
+      "basename": "apt update",
+      "path": "100 Faks/apt update.md"
     },
     {
       "basename": "Malicious Libre",
       "path": "100 Faks/Malicious Libre.md"
     },
     {
-      "basename": "15-06-2022",
-      "path": "Daily notes/15-06-2022.md"
-    },
-    {
       "basename": "Izvjestaj 20.5.",
       "path": "100 Faks/Izvjestaj 20.5..md"
-    },
-    {
-      "basename": "Pisanje zavrsnog",
-      "path": "000 Zettelkasten/Pisanje zavrsnog.md"
-    },
-    {
-      "basename": "Life OS",
-      "path": "200 Research/Life OS.md"
     }
   ],
   "omittedPaths": [],

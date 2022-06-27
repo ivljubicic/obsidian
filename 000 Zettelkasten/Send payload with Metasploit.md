@@ -1,4 +1,4 @@
-202206021442
+)202206021442
 Tags: 
 # Send payload with Metasploit
 

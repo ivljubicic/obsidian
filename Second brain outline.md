@@ -17,5 +17,8 @@ Tags:
 - mora postojati neki nacin da u naslovu ili tagovima naznacim koja je to tema kojeg nekog predmeta
 	- tags: "neizvjesnost"
 	- naslov: ""
+
+## Obsidian plugins
+- https://www.youtube.com/watch?v=PDfPRp7Uk8c&list=PLRFTXn5ZdqaPTikB06X61gyijBWbF9jdG&index=19
 ---
 # References
